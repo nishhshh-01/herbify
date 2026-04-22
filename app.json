@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "herbalgarden",
+    "slug": "herbalgarden",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.nishthaagupta01.herbalgarden"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "46497ee9-0294-41cc-95dc-f91603665891"
+      }
+    }
+  }
+}
