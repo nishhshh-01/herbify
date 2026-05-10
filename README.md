@@ -49,7 +49,7 @@ The platform bridges traditional herbal awareness with modern web experiences.
 Clone the repository:
 
 ```bash
-git clone <repo-link>
+git clone https://github.com/nishhshh-01/herbify
 ```
 
 Install dependencies:
